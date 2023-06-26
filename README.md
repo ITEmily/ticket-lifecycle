@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/xzKqCeQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-When an end user (customer) needs IT support help, they "create a ticket." 
+When an end user (customer) needs IT support help, they "create a ticket." The login page is http://localhost/os/Ticket/.  Here they can fill in the form to communicate the problem they are experiencing.
 </p>
 <br />
 
@@ -38,7 +38,7 @@ When an end user (customer) needs IT support help, they "create a ticket."
 <img src="https://i.imgur.com/9ABwavx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The agent goes to login page http://localhost/osTicket/scp/login.php.  From here the agent can access all the help desk tickets that have been assigned to them.
 </p>
 <br />
 
@@ -46,6 +46,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/2D7WQNB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+It is at the same login page that tickets can be assigned by the admin to the appropriate agent and  SLA can be set.  Here you will also see the thread of communications that have already transpired as well as the status of the ticket.  Tickets are kept open until there is a final resolution to the problem.
 </p>
 <br />
