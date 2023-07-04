@@ -23,6 +23,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Assignment and Communication
 - Working the Issue
 - Resolution
+<br />
+<br />
 
 <h2>Lifecycle Stages</h2>
 
@@ -33,6 +35,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 When an end user (customer) needs IT support help, they "create a ticket." The login page is http://localhost/os/Ticket/.  Here they can fill in the form to communicate the problem they are experiencing.
 </p>
 <br />
+<br />
+<br />
 
 <p>
 <img src="https://i.imgur.com/9ABwavx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -40,6 +44,8 @@ When an end user (customer) needs IT support help, they "create a ticket." The l
 <p>
 The agent goes to login page http://localhost/osTicket/scp/login.php.  From here the agent can access all the help desk tickets that have been assigned to them.
 </p>
+<br />
+<br />
 <br />
 
 <p>
